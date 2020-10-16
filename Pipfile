@@ -9,6 +9,7 @@ flake8 = "*"
 
 [packages]
 django = "*"
+django-filter = "*"
 
 [requires]
 python_version = "3.8"
